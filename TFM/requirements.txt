@@ -1,0 +1,6 @@
+openai-whisper
+transformers
+torch
+yake
+pytube
+sentencepiece
